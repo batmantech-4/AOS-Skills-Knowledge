@@ -1,4 +1,54 @@
 # AOS-Skills-Knowledge
+Make humans and AI agents work as one team — open-source and self-hostable.
+https://github.com/multica-ai/multica
+Cortex: Open-Source AI Memory for your Codebase. Works with Claude CLI and others. It indexes your codebase into vector embeddings, enabling semantic search to find existing implementations and prevent code duplication.
+https://github.com/Remskill/Cortex
+A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+https://github.com/cortexproject/cortex
+CORTEX is an AI Agent framework designed for efficient integration and utilization of large language models (LLMs), built in Go.
+https://github.com/xichan96/cortex
+Exa MCP for web search and web crawling!
+https://github.com/exa-labs/exa-mcp-server
+mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+https://github.com/tobi/qmd
+A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+https://github.com/multica-ai/andrej-karpathy-skills
+14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+https://github.com/cactus-compute/needle
+LiteLLM the control panel for anyone building with AI
+https://github.com/BerriAI/litellm
+A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
+https://github.com/danielmiessler/LifeOS 
+Unified Efficient Fine-Tuning of 100+ LLMs & VLMs 
+https://github.com/hiyouga/LlamaFactory
+Ingest, parse, and optimize any data format
+https://github.com/adithya-s-k/omniparse
+Orca is the ADE for working with a fleet of parallel agents.
+https://github.com/stablyai/orca
+100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+https://github.com/Shubhamsaboo/awesome-llm-apps
+The fastest browser for AI agents to run browser automation
+https://github.com/citrolabs/ego-lite
+VibeVoice is a free open-source voice AI that can generate 90-minute multi-speaker audio
+https://github.com/microsoft/VibeVoice
+The design language that makes your AI harness better at design.
+https://github.com/pbakaus/impeccable 
+A list of Free Software network services and web applications which can be hosted on your own servers
+https://github.com/awesome-selfhosted/awesome-selfhosted 
+A free, open source, and extensible speech-to-text application that works completely offline.
+https://github.com/cjpais/handy 
+Download Udemy and Hotmart courses, YouTube videos, music and books
+https://github.com/tonhowtf/omniget 
+Stop burning tokens on AI code reviews. Code-review-graph builds a local map of your code so your AI only reads what matters. Cuts tokens by ~80x.
+https://github.com/tirth8205/code-review-graph 
+Cognee gives AI agents persistent long-term memory across sessions.
+https://github.com/topoteretes/cognee 
+Edit CapCut projects from your terminal with capcut-cli — subtitles, timing, cuts, and more. Free and open-source. 
+https://github.com/renezander030/capcut-cli 
+Stop grepping through your codebase by hand. Graphify turns your whole project - code, docs, even PDFs - into a real knowledge graph you can actually ask questions
+https://github.com/Graphify-Labs/graphify 
+wigolo gives your AI agent live web search, fetch, and research — all from your own computer with no API keys or cloud. 
+https://github.com/KnockOutEZ/wigolo 
 LifeOS-The Life Operating System — an intent engineering platform that moves you from your current state to your ideal state, in life and work.
 https://github.com/danielmiessler/LifeOS 
 Unified Efficient Fine-Tuning of 100+ LLMs & VLMs 
