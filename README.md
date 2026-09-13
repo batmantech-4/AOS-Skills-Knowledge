@@ -1,4 +1,29 @@
 # AOS-Skills-Knowledge
+Product management related github:
+https://github.com/ProductHired/open-product-management 
+https://github.com/dend/awesome-product-management
+https://github.com/rajnishmanitiwari/Product-Management-Guide
+https://github.com/prakashsellathurai/Awesome-Product-Management
+https://github.com/deanpeters/product-manager-prompts
+https://github.com/vipl0ve/product-management-guide
+https://github.com/rajnishmanitiwari/Product-Management-Guide
+https://github.com/topics/product-management?l=python
+https://github.com/deanpeters/Product-Manager-Skills
+
+ Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.
+https://github.com/unclecode/crawl4ai
+shrimply
+https://github.com/soirihiroka/shrimply
+Hundreds of models & providers. One command to find what runs on your hardware.
+https://github.com/AlexsJones/llmfit
+Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line of code change.
+https://github.com/tiliondev/fortress
+World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+https://github.com/calesthio/OpenMontage
+Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+https://github.com/stablyai/orca
+FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
+https://github.com/FlashML-org/FreeToken 
 Make humans and AI agents work as one team — open-source and self-hostable.
 https://github.com/multica-ai/multica
 Cortex: Open-Source AI Memory for your Codebase. Works with Claude CLI and others. It indexes your codebase into vector embeddings, enabling semantic search to find existing implementations and prevent code duplication.
