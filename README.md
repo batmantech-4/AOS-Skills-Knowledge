@@ -1,4 +1,8 @@
 # AOS-Skills-Knowledge
+PDF editing related github
+https://github.com/ZeroPointRepo/awesome-hermes-skills
+https://github.com/ZeroPointRepo/awesome-hermes-skills
+
 Product management related github:
 https://github.com/ProductHired/open-product-management 
 https://github.com/dend/awesome-product-management
